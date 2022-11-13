@@ -17,3 +17,36 @@
 .navbar .navbar-nav .nav-link {
     color: #000;
 }
+
+
+
+
+@media (max-width: 390px)  {
+
+    .navbar {
+        padding: 0;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 390px) and (max-width: 500px) {
+
+    .navbar {
+        padding: 0;
+    }
+
+}
+@media (min-width: 768px) and (max-width: 900px)
