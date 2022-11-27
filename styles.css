@@ -5,7 +5,7 @@
 }
 
 .navbar {
-    padding: 0 2rem;
+    padding: 0.5rem 2rem;
 }
  
 .navbar .navbar-brand {
@@ -18,7 +18,27 @@
     color: #000;
 }
 
+/* start faq styling */
 
+  .accordion {
+      padding: 0 2.5rem;
+  }
+
+/* End faq styling */
+
+/* start footer styling */
+
+
+footer {
+	text-align: center;
+	margin-top: 5rem;
+}
+
+footer p > a {
+	color: red;
+}
+
+/* End footer styling */
 
 
 @media (max-width: 390px)  {
