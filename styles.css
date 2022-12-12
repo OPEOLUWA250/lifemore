@@ -18,10 +18,24 @@
     color: #000;
 }
 
+/* start organizers styling */
+
+ .organizers {
+     background-color: red;
+ }
+
+/* End organizers styling */
+
+
 /* start faq styling */
 
   .accordion {
       padding: 0 2.5rem;
+  }
+
+  .accordion-button {
+      background-color: red;
+      color: #fff;
   }
 
 /* End faq styling */
